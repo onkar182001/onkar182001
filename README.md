@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Thakareonkar&label=Profile%20views&color=0e75b6&style=flat" alt="Sonawanesoham" /> 
+  <img src="https://komarev.com/ghpvc/?username=Sonawanesoham&label=Profile%20views&color=0e75b6&style=flat" alt="Sonawanesoham" /> 
 </p>
 
 - 🌱 I’m currently working on Dot Net Technology
@@ -91,8 +91,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakareonkar&show_icons=true&locale=en&layout=compact" alt="Sonawanesoham" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonawanesoham&show_icons=true&locale=en&layout=compact" alt="Sonawanesoham" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thakareonkar&show_icons=true&locale=en" alt="Thakareonkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonawanesoham&show_icons=true&locale=en" alt="Sonawanesoham" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thakareonkar&" alt="Thakareonkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonawanrsoham&" alt="Sonawanesoham" /></p>
