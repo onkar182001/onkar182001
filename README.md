@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Soham Sonawane</h1>
+<h1 align="center">Hi 👋, I'm Onkar Thakare</h1>
 <h3 align="center">.NET Core Developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -24,17 +24,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on Dot Net Technology
 
-- 📫 How to reach me: sonawane.sohamvcoe@gmail.com
+- 📫 How to reach me: onkarthakare5784@gmail.com
 
 - ⚡ Fun fact: I am not an Einstein
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://github.com/Sonawanesoham" target="_blank">
+<a href="https://github.com/onkar182001" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/soham-sonawane-4b570b20a/" target="_blank">
+<a href="https://www.linkedin.com/in/onkar-thakare-986603228/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 </p>
