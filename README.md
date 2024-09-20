@@ -91,8 +91,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sonawanesoham&show_icons=true&locale=en&layout=compact" alt="Sonawanesoham" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakareonkar&show_icons=true&locale=en&layout=compact" alt="Thakareonkar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sonawanesoham&show_icons=true&locale=en" alt="Sonawanesoham" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thakareonkar&show_icons=true&locale=en" alt="Thakareonkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sonawanrsoham&" alt="Sonawanesoham" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thakareonkar&" alt="Thakareonkar" /></p>
